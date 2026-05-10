@@ -31,3 +31,4 @@ This project was created to practice Java fundamentals, especially:
 - Add error handling for invalid input types
 - Store previous calculations (history feature)
 - Add array-based calculation mode
+  
